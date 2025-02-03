@@ -34,7 +34,11 @@
   },
   "name":"2DSideScrollingPlatformerMD",
   "resources":[
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
+    {"id":{"name":"OBJ_Player","path":"objects/OBJ_Player/OBJ_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_Floor","path":"sprites/spr_Floor/spr_Floor.yy",},},
+    {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
