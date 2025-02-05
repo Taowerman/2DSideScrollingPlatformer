@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_floor",
+  "%Name":"obj_grass",
   "eventList":[],
   "managed":true,
-  "name":"obj_floor",
+  "name":"obj_grass",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Floor",
-    "path":"sprites/spr_Floor/spr_Floor.yy",
+    "name":"spr_grass",
+    "path":"sprites/spr_grass/spr_grass.yy",
   },
   "spriteMaskId":null,
   "visible":true,
